@@ -13,7 +13,7 @@
 #
 ---
 include:
-  - board: nrf52840_m2
+  - board: nrfmicro_11
     shield: sofle_left
-  - board: nice_nano_v2
-    shield: nrf52840_m2
+  - board: nrfmicro_11
+    shield: sofle_right
